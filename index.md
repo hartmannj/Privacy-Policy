@@ -1,4 +1,4 @@
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+PRIVACY POLICY
 --------------------------------------------
 
 This privacy policy governs your use of the software application Jugendtreff CAMP Feuerbach (“Application”) for mobile devices that was created by Jugendtreff Feuerbach. The Application is providing news, updates and notification to the institution's kids and their parents. 
